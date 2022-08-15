@@ -1,4 +1,5 @@
-# PYTHON Django(Web Application Framework) HTML TEMPLATE
+# PYTHON Django(Web Application Framework) 
+# HTML TEMPLATE
 
 ## Django Html Template List
 
